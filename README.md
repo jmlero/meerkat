@@ -1,2 +1,2 @@
 # meerkat
-Open price tracker for supermarket products
+Generic price tracker for supermarket products
